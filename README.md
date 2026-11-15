@@ -66,7 +66,7 @@ No modelo de **Plataforma como Serviço (PaaS)** — como o **Azure SQL Database
 ## 📸 Evidências do Laboratório
 
 ### Arquitetura de Rede e Proteção (NSG/IP)
-![Configuração de rede e exposição (NSG/IP) da Máquina Virtual](images/aruitetura-de-rede-protecao.png)
+![Configuração de rede e exposição (NSG/IP) da Máquina Virtual](images/aruitetura-de-rede.png)
 
 ### Redundância de Backup e Custos do Banco de Dados
 ![Definição de região, redundância de backup e resumo de custos do Banco de Dados](images/sql-database-backup-storage-redundancy.png)
