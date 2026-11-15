@@ -67,8 +67,8 @@ No modelo de **Plataforma como Serviço (PaaS)** — como o **Azure SQL Database
 
 *(Opcional: adicione suas capturas de tela na pasta `/images` do repositório)*
 
-* `images/01-vm-arquitetura-rede.png` — Configuração de rede e exposição (NSG/IP) da Máquina Virtual.
-* `images/02-sql-redundancia-custos.png` — Definição de região, redundância de backup e resumo de custos do Banco de Dados.
+* `images/aruitetura de rede  protecao.png` — Configuração de rede e exposição (NSG/IP) da Máquina Virtual.
+* `images/sql-database-backup-storage-redundancy.png` — Definição de região, redundância de backup e resumo de custos do Banco de Dados.
 
 ## 📚 Referências Oficiais
 
