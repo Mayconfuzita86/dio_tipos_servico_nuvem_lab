@@ -63,13 +63,12 @@ No modelo de **Plataforma como Serviço (PaaS)** — como o **Azure SQL Database
 2. **Provisionamento de Banco de Dados:** Simulação da criação de uma instância SQL no Portal do Azure, validando configurações de rede, redundância de backup e impacto financeiro no painel de custos.
 3. **Boas Práticas de Governança:** Adoção de nomenclaturas padronizadas, tags de identificação e monitoramento de custos via **Azure Cost Management**.
 
-## 📸 Evidências do Laboratório
-
 ### Arquitetura de Rede e Proteção (NSG/IP)
 ![Configuração de rede e exposição (NSG/IP) da Máquina Virtual](images/aruitetura-de-rede.png)
 
 ### Redundância de Backup e Custos do Banco de Dados
 ![Definição de região, redundância de backup e resumo de custos do Banco de Dados](images/sql-database-backup-storage-redundancy.png)
+## 📸 *Fonte: [Documentação Oficial do Microsoft Azure](https://learn.microsoft.com/pt-br/azure/)*
 
 ## 📚 Referências Oficiais
 
